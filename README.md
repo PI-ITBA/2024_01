@@ -4,8 +4,8 @@ Las consultas se hacen mediante issues acá. En caso de hacer alguna pregunta so
 
 Para poder mostrar codigo formateado y con syntax highlighting se hace ingresando lo siguiente:
 
-```c
+\`\`\`c
 
-*el codigo*
+\**`el codigo`*\*
 
-```
+\`\`\`
